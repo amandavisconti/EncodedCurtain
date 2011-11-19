@@ -1,0 +1,98 @@
+@import url("reset.css");
+
+body {
+     font-family: Georgia,Times,"Times New Roman",serif;
+}
+
+img {
+    
+}
+
+h2 {
+     padding-bottom: 20px;
+}
+
+p {
+     padding-bottom: 20px;
+}
+
+em {
+     font-style: italic;
+}
+
+strong {
+     font-weight: bold;
+}
+
+a:link {
+    
+}
+
+a:visited {
+    
+}
+
+a:hover {
+    
+}
+
+a:active {
+    
+}
+
+#wrap {
+     padding: 20px;
+}
+
+#header {
+     padding: 40px 20px;
+}
+
+#site-title {
+     font-size: 60px;
+     font-variant: small-caps;
+     text-align: center;
+}
+
+#site-title:before {
+     content: "{ ";
+}
+
+#site-title:after {
+     content: "}";
+}
+
+#site-title a {
+     color: #000000;
+     text-decoration: none;
+}
+
+#content {
+     margin: 0px auto;
+     padding: 40px;
+     width: 725px;
+}
+
+#hometext {
+     font-size: 25px;
+     padding-top: 20px;
+     text-align: justify;
+}
+
+#enter {
+     font-size: 25px;
+     padding-top: 20px;
+     text-align: center;
+}
+
+#entererror {
+    
+}
+
+#footer {
+     font-style: italic;
+     margin: 0px auto;
+     padding: 30px 0px;
+     text-align: center;
+width: 60%;
+}
